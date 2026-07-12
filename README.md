@@ -1,5 +1,5 @@
-# mlops-churn-prediction# 🚀 MLOps Churn Prediction Project
-# 🚀 MLOps Churn Prediction Project
+# mlops-churn-prediction#  MLOps Churn Prediction Project
+#  MLOps Churn Prediction Project
 
 ![Python](https://img.shields.io/badge/python-3.11+-blue.svg)
 ![DVC](https://img.shields.io/badge/Data_Version_Control-DVC-brightgreen.svg)
@@ -12,7 +12,7 @@ Welcome to my end-to-end Customer Churn Prediction project. This repository is b
 
 ---
 
-## 🏗️ Project Architecture & Components
+##  Project Architecture & Components
 
 The repository is structured as a professional MLOps pipeline:
 * **`src/` Folder:** Contains the core production code for the machine learning pipeline (Data Ingestion, Model Training, and Inference scripts).
@@ -21,7 +21,7 @@ The repository is structured as a professional MLOps pipeline:
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 * **Version Control:** Git & GitHub
 * **Data Versioning:** DVC (Data Version Control)
@@ -31,7 +31,7 @@ The repository is structured as a professional MLOps pipeline:
 
 ---
 
-## 🎯 Current Status & Next Steps
+##  Current Status & Next Steps
 
 ### Completed:
 * ✅ Set up repository structure and environment constraints.
@@ -44,7 +44,7 @@ The next step is implementing a **Continuous Integration (CI)** pipeline using *
 
 ---
 
-## ⚙️ How to Setup and Run Locally
+##  How to Setup and Run Locally
 
 ```bash
 # 1. Clone the repository
