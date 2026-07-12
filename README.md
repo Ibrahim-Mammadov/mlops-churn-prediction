@@ -1,4 +1,12 @@
 # mlops-churn-prediction# 🚀 MLOps Churn Prediction Project
+# 🚀 MLOps Churn Prediction Project
+
+![Python](https://img.shields.io/badge/python-3.11+-blue.svg)
+![DVC](https://img.shields.io/badge/Data_Version_Control-DVC-brightgreen.svg)
+![MLflow](https://img.shields.io/badge/Experiment_Tracking-MLflow-tracking.svg)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-orange.svg)
+
+Welcome to my end-to-end Customer Churn Prediction project. This repository is built using production-grade MLOps practices...
 
 Welcome to my end-to-end Customer Churn Prediction project. This repository is built using production-grade MLOps practices, focusing on reproducibility, data versioning, and automated workflows.
 
